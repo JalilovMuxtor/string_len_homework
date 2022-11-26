@@ -7,4 +7,5 @@ def main(s1,s2):
     Returns:
         total length of strings
     """
-    return
+    return f"{s1}{s2}"
+print(main('code','school'))
