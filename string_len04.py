@@ -6,4 +6,7 @@ def main(s):
     Returns:
         string
     """
-    return
+    b=len(s)
+    symbol='*'
+    return symbol*b
+print(main('codeschool'))
